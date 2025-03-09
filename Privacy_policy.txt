@@ -1,0 +1,52 @@
+				Privacy Policy for LetsBeHealthy
+Last Updated: March 8, 2025
+1. Introduction
+Welcome to LetsBeHealthy, a fitness app developed by the team at LetsBeHealthy. We are committed to protecting your privacy and ensuring transparency in how we collect, use, and share your personal information. This Privacy Policy explains our practices regarding the data we collect through the app.
+2. Information We Collect
+We collect the following types of information:
+Personal Information:
+Name (first and last name).
+Email address.
+Bio (user-provided description).
+Health Data:
+Step counts (daily, monthly, and lifetime totals) via Apple HealthKit.
+Derived data such as step-based rewards and achievements.
+Social and Communication Data:
+Friend requests, chat messages, and posts within the app.
+Referral codes for inviting friends.
+Usage Data:
+Timestamps (e.g., account creation, last post viewed).
+App interactions (e.g., meditation sessions, analytics views).
+Device Information:
+Firebase Cloud Messaging (FCM) token for push notifications.
+3. How We Use Your Information
+We use your data to:
+Provide core app functionality (e.g., track steps, award StepCoins, display analytics).
+Enable social features (e.g., friend requests, chats, posts).
+Send push notifications (e.g., friend request alerts, unread messages).
+Personalize your experience (e.g., reward tiers, achievements).
+Display ads via Google Mobile Ads.
+Improve our app through analytics (e.g., usage patterns).
+4. How We Share Your Information
+We may share your data with:
+Third-Party Services:
+Firebase (Google) for authentication, database storage (Firestore), and push notifications.
+Google Mobile Ads for advertising.
+Legal Requirements: We may disclose data if required by law or to protect our rights. We do not sell your personal information to third parties.
+5. Data Storage and Security
+Your data is stored in Firestore (Google Cloud).
+We use industry-standard security measures (e.g., encryption) to protect your data. However, no method is 100% secure, and we cannot guarantee absolute security.
+Health data is processed locally on your device via HealthKit and only shared with Firestore with your consent.
+6. Your Rights and Choices
+Access and Deletion: You can request access to or deletion of your data by contacting us at [letsbehealthy0@gmail.com].
+HealthKit Data: You can revoke HealthKit permissions in your device’s Settings app.
+Push Notifications: You can disable notifications in your device settings.
+Ad Tracking: You can opt out of personalized ads in your device settings (e.g., limit ad tracking on iOS).
+GDPR/CCPA Rights: If applicable, you have the right to access, correct, or delete your data, and opt out of data sharing.
+7. Children’s Privacy
+LetsBeHealthy is not intended for users under 13 (or 16 in the EU). We do not knowingly collect data from children. If we learn we have collected such data, we will delete it.
+8. Changes to This Policy
+We may update this policy from time to time. We will notify you of significant changes via the app or email. Your continued use of the app after changes indicates acceptance of the updated policy.
+9. Contact Us
+For questions or concerns about this Privacy Policy, contact us at:
+Email: [letsbehealthy0@gmail.com]
